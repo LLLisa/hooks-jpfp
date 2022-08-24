@@ -45,10 +45,6 @@ Points may be deducted if you are unable to complete a requirement without full 
 
 ---
 
-## Comments
-
-_Comments from your instructor or fellow will go here_
-
 ## Evaluation
 
 - Requirements score (59 points total, weighted at 70% of total grade)
